@@ -1,0 +1,101 @@
+* {
+    text-align: center;
+    justify-content: center;
+}
+
+body {
+    background-color: #9BC1BC;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#title {
+    font-family: monospace;
+    font-size: 45px;
+}
+
+#subheading {
+    margin-top: 0rem;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.image-above-button {
+    text-align: center;
+    position: relative;
+}
+
+.image-above-button img {
+    display: block;
+    margin: 0 auto;
+    width: 200px; /* Adjust the width as needed */
+    /* Other styles as required */
+}
+
+.image-above-button button {
+    position: absolute;
+    top: 50%; /* Adjust vertical positioning */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Other styles as required */
+}
+
+#start-button {
+    height: 50px;
+    width: 100px;
+    background-color: #F4F1BB;
+    border-radius: 5.35px;
+    font-family: monospace;
+}
+
+#start-game {
+    height: 70vmin;
+}
+
+#grid {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5vmin;
+}
+
+.tile {
+    height: 18vmin;
+    width: 18vmin;
+    background-color: #E6EBE0;
+    justify-content: center;
+    box-shadow: 2px 5px 5px #5CA4A9;
+    border-radius: 8px;
+    border: none;
+}
+
+.red-X {
+    font-size: 9vmin;
+    color: #ED6A5A;
+}
+
+.yellow-O {
+    font-size: 9vmin;
+    color: #efe866;
+}
+
+#reset-button {
+    padding: 1rem;
+    font-size: 1.25rem;
+    border-radius: 5.35px;
+    border: none;
+    font-family: monospace;
+}
+
+
+/* color pallete:
+    - bittersweet (red) ED6A5A
+    - lemon chiffon (yellowish tan) F4F1BB
+    - ashgray (light green) 9BC1BC
+    - verdigris (green) 5CA4A9
+    - alabaster (off white) E6EBE0 */

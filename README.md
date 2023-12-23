@@ -4,7 +4,7 @@ This is a simple Tic Tac Toe game created using HTML, CSS, and JavaScript. It's 
 
 ## Deployment
 
-This project is deployed and hosted on Firebase. You can play the game live [here]([https://tic-tac-toe-717de.web.app]).
+This project is deployed and hosted on Firebase. You can play the game live [here](https://tic-tac-toe-717de.web.app).
 
 ## Features
 

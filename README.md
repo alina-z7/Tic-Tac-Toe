@@ -32,6 +32,12 @@ This is a simple Tic Tac Toe game created using HTML, CSS, and JavaScript. It's 
 
 ## Credits
 
+-Music-
+
+Sideways Samba by Audionautix is licensed under a Creative Commons Attribution 4.0 license. https://creativecommons.org/licenses/by/4.0/
+
+Artist: http://audionautix.com/
+
 This project is inspired by the classic Tic Tac Toe game and was created by Alina Zacaria.
 
 ## License

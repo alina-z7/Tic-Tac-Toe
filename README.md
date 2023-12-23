@@ -32,6 +32,7 @@ This project is deployed and hosted on Firebase. You can play the game live [her
 - HTML5
 - CSS3
 - JavaScript
+- Firebase
 - VS Code
 
 ## Credits

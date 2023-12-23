@@ -2,6 +2,10 @@
 
 This is a simple Tic Tac Toe game created using HTML, CSS, and JavaScript. It's a classic two-player game where players take turns marking spaces on a 3x3 grid to get three in a row horizontally, vertically, or diagonally.
 
+## Deployment
+
+This project is deployed and hosted on Firebase. You can play the game live [here]([https://tic-tac-toe-717de.web.app]).
+
 ## Features
 
 - **Interactive Gameplay:** Play against a friend on the same device.

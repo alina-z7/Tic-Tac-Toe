@@ -47,4 +47,4 @@ This project is inspired by the classic Tic Tac Toe game and was created by Alin
 
 ## License
 
-This project is licensed under the LUC License - see the file for details.
+This project is licensed under the [MIT License](LICENSE).
